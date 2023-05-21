@@ -16,7 +16,7 @@ https://djson2.github.io/
 # 현재 블로그에 기재된 게시글과 카테고리
 ## Part 1. 전산 기초
 - 개발 상식
-  - [Tdd](https://djson2.github.io/TDD/)
+  - [TDD 방식](https://djson2.github.io/TDD/)
   - [REST API and RESTful API](https://djson2.github.io/rest-api/)
   - [Spring MVC](https://djson2.github.io/spring-mvc/)
 - 자료구조
