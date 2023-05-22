@@ -13,13 +13,14 @@ https://djson2.github.io/
 * 관심있거나 프로젝트에 적용했던 관련 정보들을 포스팅하기 위해 찾아보면서 메타인지를 더욱 정확히 하기 위해 노력하고 있습니다.
 * 주도적인 업무 수행 능력을 강화하기 위해 이와 같이 블로그를 운영하면서 스스로 학습하고, 새로운 지식을 습득하는 노력을 기울이고 있습니다. 
 
-# 현재 블로그에 기재된 게시글과 카테고리
+# 현재 블로그에 기재된 게시글 정리
 ## Part 1. 전산 기초
 - 개발 상식
   - [TDD 방식](https://djson2.github.io/TDD/)
   - [REST API and RESTful API](https://djson2.github.io/rest-api/)
   - [Spring MVC](https://djson2.github.io/spring-mvc/)
 - 자료구조
+  - [Graph](https://djson2.github.io/graph/)
   - [Tree](https://djson2.github.io/tree/)
   - [Stack and Queue](https://djson2.github.io/stack-and-queue/)
   - [Array vs Linked List](https://djson2.github.io/array-vs-linkedlist/)
