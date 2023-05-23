@@ -39,10 +39,15 @@ https://djson2.github.io/
   - [Overriding vs Overloading](https://djson2.github.io/overriding-vs-overloading/)
   - [JVM](https://djson2.github.io/JVM/)
 
-## Part 3. 그 외의 카테고리
+## Part 3. 설계
+- 객체지향
+  - [Interface](https://djson2.github.io/interface/)
+  - [캡슐화와 추상화](https://djson2.github.io/encapsulation-and-abstraction/)
+
+## Part 4. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
 - [ModifyMode](https://djson2.github.io/modify-mode/)
-- [Interface](https://djson2.github.io/interface/)
+
 
 ## 참여했던 프로젝트 저장소
 * ERP 프로그램 (인사팀 관련 기능 구현)
