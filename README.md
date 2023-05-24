@@ -43,6 +43,7 @@ https://djson2.github.io/
 - 객체지향
   - [Interface](https://djson2.github.io/interface/)
   - [캡슐화와 추상화](https://djson2.github.io/encapsulation-and-abstraction/)
+  - [디자인 패턴과 안디 디자인 패턴](https://djson2.github.io/design-pattern-and-anti-pattern/)
 
 ## Part 4. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
