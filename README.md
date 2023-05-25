@@ -44,6 +44,7 @@ https://djson2.github.io/
   - [Interface](https://djson2.github.io/interface/)
   - [캡슐화와 추상화](https://djson2.github.io/encapsulation-and-abstraction/)
   - [디자인 패턴과 안디 디자인 패턴](https://djson2.github.io/design-pattern-and-anti-pattern/)
+  - [DI와 IoC](https://djson2.github.io/DI-IoC/)
 
 ## Part 4. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
