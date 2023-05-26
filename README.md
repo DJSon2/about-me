@@ -45,11 +45,11 @@ https://djson2.github.io/
   - [캡슐화와 추상화](https://djson2.github.io/encapsulation-and-abstraction/)
   - [디자인 패턴과 안디 디자인 패턴](https://djson2.github.io/design-pattern-and-anti-pattern/)
   - [DI와 IoC](https://djson2.github.io/DI-IoC/)
+  - [빈의 주입 이유와 낮은 결합도의 이유](https://djson2.github.io/bean/)
 
 ## Part 4. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
 - [ModifyMode](https://djson2.github.io/modify-mode/)
-
 
 ## 참여했던 프로젝트 저장소
 * ERP 프로그램 (인사팀 관련 기능 구현)
