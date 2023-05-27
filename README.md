@@ -47,7 +47,10 @@ https://djson2.github.io/
   - [DI와 IoC](https://djson2.github.io/DI-IoC/)
   - [빈의 주입 이유와 낮은 결합도의 이유](https://djson2.github.io/bean/)
 
-## Part 4. 그 외의 카테고리
+## Part 4. 모델링
+- [논리적 모델과 물리적 모델](https://djson2.github.io/logical-model-and-physical-model/)
+
+## Part 5. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
 - [ModifyMode](https://djson2.github.io/modify-mode/)
 
