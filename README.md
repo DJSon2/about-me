@@ -53,10 +53,13 @@ https://djson2.github.io/
 ## Part 4. 모델링
 - [논리적 모델과 물리적 모델](https://djson2.github.io/logical-model-and-physical-model/)
 
-## Part 5. 그 외의 카테고리
+## Part 5. 알고리즘
+- [배열 평균, 정렬, 검색, 순환 알고리](https://djson2.github.io/algorithm/)
+
+## Part 6. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
 - [ModifyMode](https://djson2.github.io/modify-mode/)
-- [알고리즘](https://djson2.github.io/algorithm/)
+
 
 ## 참여했던 프로젝트 저장소
 * ERP 프로그램 (인사팀 관련 기능 구현)
