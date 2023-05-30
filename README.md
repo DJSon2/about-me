@@ -41,6 +41,7 @@ https://djson2.github.io/
   - [Overriding vs Overloading](https://djson2.github.io/overriding-vs-overloading/)
   - [JVM](https://djson2.github.io/JVM/)
   - [Reflection](https://djson2.github.io/relection/)
+  - [Annotation](https://djson2.github.io/annotation/)
 
 ## Part 3. 설계
 - 객체지향
@@ -54,7 +55,7 @@ https://djson2.github.io/
 - [논리적 모델과 물리적 모델](https://djson2.github.io/logical-model-and-physical-model/)
 
 ## Part 5. 알고리즘
-- [배열 평균, 정렬, 검색, 순환 알고리](https://djson2.github.io/algorithm/)
+- [배열 평균, 정렬, 검색, 순환 알고리즘](https://djson2.github.io/algorithm/)
 
 ## Part 6. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
