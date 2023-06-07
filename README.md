@@ -31,9 +31,10 @@ https://djson2.github.io/
   - [Virtual Memory](https://djson2.github.io/virtual-memory/)
   - [Scheduler](https://djson2.github.io/scheduler/)
   - [Multi thread](https://djson2.github.io/multi-thread/)
-  - [Process vs Thread](https://djson2.github.io/process-vs-thread/)
 - 시스템 프로그래밍
   - [컴파일러, 링커, 인터프리터](https://djson2.github.io/system-prgramming/)
+  - [커널 모드와 유저 모드](https://djson2.github.io/kernel-mode-and-user-mode/)
+  - [Process vs Thread](https://djson2.github.io/process-vs-thread/) 
 
 ## Part 2. Language
 - Java
