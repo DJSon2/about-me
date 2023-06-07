@@ -32,9 +32,6 @@ https://djson2.github.io/
   - [Scheduler](https://djson2.github.io/scheduler/)
   - [Multi thread](https://djson2.github.io/multi-thread/)
   - [Process vs Thread](https://djson2.github.io/process-vs-thread/)
-- 데이터베이스
-  - [Transaction](https://djson2.github.io/transaction/)
-  - [NoSQL](https://djson2.github.io/NoSQL/)
 - 시스템 프로그래밍
   - [컴파일러, 링커, 인터프리터](https://djson2.github.io/system-prgramming/)
 
@@ -53,8 +50,10 @@ https://djson2.github.io/
   - [DI와 IoC](https://djson2.github.io/DI-IoC/)
   - [빈의 주입 이유와 낮은 결합도의 이유](https://djson2.github.io/bean/)
 
-## Part 4. 모델링
+## Part 4. DataBase
 - [논리적 모델과 물리적 모델](https://djson2.github.io/logical-model-and-physical-model/)
+- [Transaction](https://djson2.github.io/transaction/)
+- [NoSQL](https://djson2.github.io/NoSQL/)6
 
 ## Part 5. 알고리즘
 - [배열 평균, 정렬, 검색, 순환 알고리즘](https://djson2.github.io/algorithm/)
