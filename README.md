@@ -58,6 +58,7 @@ https://djson2.github.io/
 
 ## Part 5. 알고리즘
 - [배열 평균, 정렬, 검색, 순환 알고리즘](https://djson2.github.io/algorithm/)
+- [Dijkstra 알고리즘과 A* 알고리즘](https://djson2.github.io/dijkstra-algorithm-and-A-Star-algorithm/)
 
 ## Part 6. 그 외의 카테고리
 - [Node.js](https://djson2.github.io/nodejs/)
@@ -74,5 +75,3 @@ https://djson2.github.io/
   * https://github.com/DJSon2/EcoAndRich
 * 연관 게시물 추천 기능
   * https://github.com/DJSon2/DJ_Board
-
-
