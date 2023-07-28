@@ -55,6 +55,7 @@ https://djson2.github.io/
 - [논리적 모델과 물리적 모델](https://djson2.github.io/logical-model-and-physical-model/)
 - [Transaction](https://djson2.github.io/transaction/)
 - [NoSQL](https://djson2.github.io/NoSQL/)
+- [RDBMS](https://djson2.github.io/RDBMS/)
 
 ## Part 5. 알고리즘
 - [배열 평균, 정렬, 검색, 순환 알고리즘](https://djson2.github.io/algorithm/)
