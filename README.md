@@ -56,6 +56,7 @@ https://djson2.github.io/
 - [Transaction](https://djson2.github.io/transaction/)
 - [NoSQL](https://djson2.github.io/NoSQL/)
 - [RDBMS](https://djson2.github.io/RDBMS/)
+- [DB 최적화 등의 관련 알고리즘 예시 문제](https://djson2.github.io/algorithm-and-DB/)
 
 ## Part 5. 알고리즘
 - [배열 평균, 정렬, 검색, 순환 알고리즘](https://djson2.github.io/algorithm/)
